@@ -1,16 +1,16 @@
 <div align="right">
 
-[English](./README.en.md) | [简体中文](./README.md) | 正體中文 | [廣東話](./README.zh-HK.md)
+[English](./README.en.md) | [简体中文](./README.md) | [正體中文](./README.zh-TW.md) | 廣東話
 
 </div>
 
 # Gentoo-zh 社群
 
-2003 年起於中文 Gentoo Linux 使用者社群，現在服務所有 Gentoo 使用者。
+2003 年由中文 Gentoo Linux 用戶社群開始，而家服務所有 Gentoo 用戶。
 
 ## Overlay
 
-[gentoo-zh](https://github.com/gentoo-zh/overlay) 是一個 `masters = gentoo` 的 overlay，收錄 490 多個套件。
+[gentoo-zh](https://github.com/gentoo-zh/overlay) 係一個 `masters = gentoo` 嘅 overlay，收錄咗 490 幾個軟件包。
 
 ```
 eselect repository enable gentoo-zh
@@ -18,9 +18,9 @@ emaint sync
 ```
 
 中國大陸鏡像加速：https://gentoozh.org/zh-tw/overlay/
-distfiles 與預先編譯的二進位套件：https://distfiles.gentoozh.org
+distfiles 同預先編譯嘅二進制軟件包：https://distfiles.gentoozh.org
 
-## 交流與公告
+## 交流同公告
 
 [![官網](https://img.shields.io/badge/%E5%AE%98%E7%B6%B2-gentoozh.org-54487A?logo=gentoo&logoColor=white)](https://gentoozh.org)
 [![論壇](https://img.shields.io/badge/%E8%AB%96%E5%A3%87-forum.gentoozh.org-000000?logo=discourse&logoColor=white)](https://forum.gentoozh.org)
