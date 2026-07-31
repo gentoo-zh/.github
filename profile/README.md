@@ -25,6 +25,5 @@ Distfiles and prebuilt binary packages: https://distfiles.gentoozh.org
 [![Telegram group](https://img.shields.io/badge/Telegram%20group-gentoo__zh-26A5E4?logo=telegram&logoColor=white)](https://t.me/gentoo_zh)
 [![Announcements](https://img.shields.io/badge/Announcements-gentoocn-26A5E4?logo=telegram&logoColor=white)](https://t.me/gentoocn)
 [![Announcements](https://img.shields.io/badge/Announcements-gentootw-26A5E4?logo=telegram&logoColor=white)](https://t.me/gentootw)
-[![Security](https://img.shields.io/badge/Security-GentoozhBug-26A5E4?logo=telegram&logoColor=white)](https://t.me/GentoozhBug)
 [![Matrix](https://img.shields.io/badge/Matrix-%23gentoo--zh-000000?logo=matrix&logoColor=white)](https://matrix.to/#/%23gentoo-zh:matrix.gentoozh.org)
 [![IRC](https://img.shields.io/badge/IRC-%23gentoo--zh-5A5A5A?logo=liberadotchat&logoColor=white)](https://web.libera.chat/#gentoo-zh)
