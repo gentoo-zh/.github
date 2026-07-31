@@ -6,7 +6,7 @@ Now serving all Gentoo users.
 ## Overlay
 
 [gentoo-zh](https://github.com/gentoo-zh/overlay) is a `masters = gentoo` overlay
-carrying 480+ packages.
+carrying 490+ packages.
 
 ```
 eselect repository enable gentoo-zh
@@ -19,8 +19,8 @@ Distfiles and prebuilt binary packages: https://distfiles.gentoozh.org
 ## Chat and news
 
 [![Website](https://img.shields.io/badge/Website-gentoozh.org-54487A?logo=gentoo&logoColor=white)](https://gentoozh.org)
-[![Forum](https://img.shields.io/badge/Forum-Discourse-000000?logo=discourse&logoColor=white)](https://forum.gentoozh.org)
-[![Wiki](https://img.shields.io/badge/Wiki-Gentoo-54487A?logo=gentoo&logoColor=white)](https://wiki.gentoo.org/wiki/Gentoo-zh)
+[![Forum](https://img.shields.io/badge/Forum-forum.gentoozh.org-000000?logo=discourse&logoColor=white)](https://forum.gentoozh.org)
+[![Wiki](https://img.shields.io/badge/Wiki-Gentoo--zh-54487A?logo=gentoo&logoColor=white)](https://wiki.gentoo.org/wiki/Gentoo-zh)
 [![Email](https://img.shields.io/badge/Email-overlay%40gentoozh.org-EA4335?logo=maildotcom&logoColor=white)](mailto:overlay@gentoozh.org)
 [![Telegram group](https://img.shields.io/badge/Telegram%20group-gentoo__zh-26A5E4?logo=telegram&logoColor=white)](https://t.me/gentoo_zh)
 [![Announcements](https://img.shields.io/badge/Announcements-gentoocn-26A5E4?logo=telegram&logoColor=white)](https://t.me/gentoocn)
