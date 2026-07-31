@@ -25,7 +25,7 @@ distfiles 与预编译二进制包：https://distfiles.gentoozh.org
 [![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-gentoozh.org-54487A?logo=gentoo&logoColor=white)](https://gentoozh.org)
 [![论坛](https://img.shields.io/badge/%E8%AE%BA%E5%9D%9B-forum.gentoozh.org-000000?logo=discourse&logoColor=white)](https://forum.gentoozh.org)
 [![维基](https://img.shields.io/badge/%E7%BB%B4%E5%9F%BA-Gentoo--zh-54487A?logo=gentoo&logoColor=white)](https://wiki.gentoo.org/wiki/Gentoo-zh)
-[![Email](https://img.shields.io/badge/Email-overlay%40gentoozh.org-5A5A5A?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIgNGgyMHYxNkgyem0xMCAxMUwyIDh2LTJsMTAgNyAxMC03djJ6Ii8%2BPC9zdmc%2B)](mailto:overlay@gentoozh.org)
+[![Email](https://img.shields.io/badge/Email-overlay%40gentoozh.org-5A5A5A?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHg9IjIiIHk9IjQiIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNiIvPjxwYXRoIGQ9Im0yIDYgMTAgNyAxMC03Ii8%2BPC9zdmc%2B)](mailto:overlay@gentoozh.org)
 [![Telegram 群组](https://img.shields.io/badge/Telegram%20%E7%BE%A4%E7%BB%84-gentoo__zh-26A5E4?logo=telegram&logoColor=white)](https://t.me/gentoo_zh)
 [![公告](https://img.shields.io/badge/%E5%85%AC%E5%91%8A-gentoocn-26A5E4?logo=telegram&logoColor=white)](https://t.me/gentoocn)
 [![公告](https://img.shields.io/badge/%E5%85%AC%E5%91%8A-gentootw-26A5E4?logo=telegram&logoColor=white)](https://t.me/gentootw)
