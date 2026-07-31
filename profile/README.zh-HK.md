@@ -23,11 +23,11 @@ distfiles 同預先編譯嘅二進制軟件包：https://distfiles.gentoozh.org
 ## 交流同公告
 
 [![官網](https://img.shields.io/badge/%E5%AE%98%E7%B6%B2-gentoozh.org-54487A?logo=gentoo&logoColor=white)](https://gentoozh.org)
-[![論壇](https://img.shields.io/badge/%E8%AB%96%E5%A3%87-forum.gentoozh.org-000000?logo=discourse&logoColor=white)](https://forum.gentoozh.org)
+[![論壇](https://img.shields.io/badge/%E8%AB%96%E5%A3%87-forum.gentoozh.org-54487A?logo=discourse&logoColor=white)](https://forum.gentoozh.org)
 [![維基](https://img.shields.io/badge/%E7%B6%AD%E5%9F%BA-Gentoo--zh-54487A?logo=gentoo&logoColor=white)](https://wiki.gentoo.org/wiki/Gentoo-zh)
 [![Email](https://img.shields.io/badge/Email-overlay%40gentoozh.org-EA4335?logo=maildotcom&logoColor=white)](mailto:overlay@gentoozh.org)
 [![Telegram 群組](https://img.shields.io/badge/Telegram%20%E7%BE%A4%E7%B5%84-gentoo__zh-26A5E4?logo=telegram&logoColor=white)](https://t.me/gentoo_zh)
 [![公告](https://img.shields.io/badge/%E5%85%AC%E5%91%8A-gentoocn-26A5E4?logo=telegram&logoColor=white)](https://t.me/gentoocn)
 [![公告](https://img.shields.io/badge/%E5%85%AC%E5%91%8A-gentootw-26A5E4?logo=telegram&logoColor=white)](https://t.me/gentootw)
 [![Matrix](https://img.shields.io/badge/Matrix-%23gentoo--zh-000000?logo=matrix&logoColor=white)](https://matrix.to/#/%23gentoo-zh:matrix.gentoozh.org)
-[![IRC](https://img.shields.io/badge/IRC-%23gentoo--zh-5A5A5A?logo=liberadotchat&logoColor=white)](https://web.libera.chat/#gentoo-zh)
+[![IRC](https://img.shields.io/badge/IRC-%23gentoo--zh-000000?logo=liberadotchat&logoColor=white)](https://web.libera.chat/#gentoo-zh)
